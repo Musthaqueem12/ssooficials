@@ -1,4 +1,4 @@
-# SSOofficials Website - GitHub Repository
+# SSOofficials Website 
 
 Hi 👋, I'm **Musthaqueem**, the Fund Manager and Founder of **SSOfficial**. Welcome to the official GitHub repository for my personal website!
 
